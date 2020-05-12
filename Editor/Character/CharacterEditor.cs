@@ -1,7 +1,7 @@
 using UnityEditor;
 using UnityEngine;
 
-namespace ThirdPersonController
+namespace com.earthshaping.thirdperson.controller
 {
     [CustomEditor(typeof(Character), true)]
     public class CharacterEditor : Editor

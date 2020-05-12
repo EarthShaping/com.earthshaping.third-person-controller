@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
-namespace ThirdPersonController
+namespace com.earthshaping.thirdperson.controller
 {
     public class ShootingExtension : CharacterExtension
     {

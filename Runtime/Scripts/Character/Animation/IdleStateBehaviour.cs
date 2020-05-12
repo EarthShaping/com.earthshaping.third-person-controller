@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections.Generic;
 
-namespace ThirdPersonController
+namespace com.earthshaping.thirdperson.controller
 {
     public class IdleStateBehaviour : StateMachineBehaviour
     {

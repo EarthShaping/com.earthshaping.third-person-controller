@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace ThirdPersonController
+namespace com.earthshaping.thirdperson.controller
 {
     [RequireComponent(typeof(Rigidbody))]
     public class Momentum : MonoBehaviour

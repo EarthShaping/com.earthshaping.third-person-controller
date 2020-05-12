@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace ThirdPersonController
+namespace com.earthshaping.thirdperson.controller
 {
     public static class ListExtensions
     {

@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace ThirdPersonController
+namespace com.earthshaping.thirdperson.controller
 {
     public class Projectile : MonoBehaviour
     {

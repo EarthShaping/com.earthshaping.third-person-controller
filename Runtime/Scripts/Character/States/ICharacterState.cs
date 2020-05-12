@@ -1,4 +1,4 @@
-namespace ThirdPersonController
+namespace com.earthshaping.thirdperson.controller
 {
     public interface ICharacterState
     {

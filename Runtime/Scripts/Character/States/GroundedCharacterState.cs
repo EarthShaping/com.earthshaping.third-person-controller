@@ -1,4 +1,4 @@
-namespace ThirdPersonController
+namespace com.earthshaping.thirdperson.controller
 {
     /// <summary>
     /// The character is on the ground

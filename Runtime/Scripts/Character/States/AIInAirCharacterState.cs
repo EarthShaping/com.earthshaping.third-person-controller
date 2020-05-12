@@ -1,4 +1,4 @@
-namespace ThirdPersonController
+namespace com.earthshaping.thirdperson.controller
 {
     /// <summary>
     /// The character is in the air, but he didn't jump to achieve that

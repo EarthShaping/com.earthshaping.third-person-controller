@@ -1,7 +1,7 @@
 using Cinemachine;
 using UnityEngine;
 
-namespace ThirdPersonController
+namespace com.earthshaping.thirdperson.controller
 {
     public static class PlayerInput
     {

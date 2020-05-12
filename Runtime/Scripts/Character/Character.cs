@@ -2,7 +2,7 @@ using Cinemachine;
 using UnityEngine;
 using UnityEngine.AI;
 
-namespace ThirdPersonController
+namespace com.earthshaping.thirdperson.controller
 {
     public class Character : MonoBehaviour
     {

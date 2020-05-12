@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace ThirdPersonController
+namespace com.earthshaping.thirdperson.controller
 {
     [Serializable]
     public class MovementSettings
